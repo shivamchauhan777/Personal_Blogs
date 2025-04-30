@@ -1,0 +1,66 @@
+const list = [
+    {
+        "id": "1",
+        "name": "Monty carlos",
+        "time": "12 april, 2025",
+        "title": "Rev Up Your Knowledge: The Ultimate Guide to Car Performance and Upgrades",
+        "img": "https://images.pexels.com/photos/100654/pexels-photo-100654.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "para": "Driving a powerful machine down an open road brings an unmatched sense of freedom and exhilaration. The roar of the engine, the rush of the wind, and the smooth handling create a perfect symphony of motion and control. Every curve, every straightaway, every shift of gears feels like an extension of yourself, blending man and machine into one. It’s not just about speed; it's about the connection, the journey, and the mastery over the road ahead. In every mile driven, memories are made, destinations are conquered, and passion for the ride only grows stronger with time. Whether it’s a sleek sports car, a rugged SUV, or a classic vintage, the experience remains unforgettable.",
+        "para2": "The open road stretches far beyond the horizon, inviting those who dare to chase the thrill of freedom. Every curve and straightaway holds a story waiting to be discovered, every mile a new adventure. Engines roar to life, tires hum against the asphalt, and the pulse of the journey beats stronger with each passing second. Through sun-soaked highways and rain-drenched streets, drivers carve their path with passion and purpose. Challenges become victories, obstacles mere detours toward greater destinations. In the heart of every driver lies an unstoppable spirit, fueled by wanderlust, determination, and the endless promise of the next great ride. To drive is not merely to move; it is to live fully, fiercely, and without regret.",
+        "para3": "Life’s true journey is written in the moments we dare to step beyond comfort, embracing the unknown with open arms. Each decision becomes a path, each challenge a hidden lesson shaping who we are. Even when the way forward seems unclear, persistence carves a trail where none existed before. Failures transform into stepping stones, and fleeting victories build a bridge toward dreams yet realized. In the quiet spaces between ambition and achievement, true growth takes root, nourished by hope and resilience. Success is not found in a destination but in the bravery to keep moving, to keep believing, even when the road disappears into the mist of uncertainty.",
+        // "logo":"/images/man_logo.png",
+    },
+    {
+        "id": "2",
+        "name": "Lebron james",
+        "time": "23 april, 2025",
+        "title": "From Classic to Electric: Exploring the Future of the Automotive Industry",
+        "img": "https://images.pexels.com/photos/30145519/pexels-photo-30145519/free-photo-of-vibrant-car-meet-with-iconic-sports-cars.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "para": "The automotive industry has come a long way since the early days of classic cars, where chrome grilles, roaring engines, and pure mechanical craftsmanship defined the driving experience. Classic vehicles are more than just machines; they represent an era of artistry, engineering, and timeless design that still captivates enthusiasts today. But as beautiful as these machines are, the world is evolving — and so are the cars we drive. The shift from gasoline-powered classics to cutting-edge electric vehicles is rewriting the story of mobility, sustainability, and automotive innovation.",
+        "para2": "As we transition into the age of electric vehicles (EVs), the industry is witnessing one of the most profound transformations in its history. Electric cars are no longer futuristic concepts or niche experiments — they’re becoming the standard. With zero emissions, lower maintenance, and the promise of cleaner cities, EVs are the clear path toward a sustainable future. Brands like Tesla, Rivian, and even heritage giants like Ford and Mercedes-Benz are investing heavily in electrification, proving that the automotive world is not just embracing change — it’s accelerating it.",
+        "para3": "But while the future is electric, the spirit of the classic car era lives on. Many automakers are blending old-school design with new-age technology, creating hybrid experiences that honor the past while embracing the future. Imagine a muscle car with the silhouette of the '60s but powered by silent, instant electric torque. The evolution from classic to electric is more than just a technological shift; it’s a cultural revolution that redefines what cars mean to us. The future of the automotive industry is an exciting mix of nostalgia and innovation, where timeless passion meets modern precision.",
+        "logo":"/images/man_logo.png",
+    },
+    {
+        "id": "3",
+        "name": "stephen curry",
+        "time": "10 feb, 2025",
+        "title": "Top 10 Car Models of 2024: Reviews, Features, and What You Need to Know",
+        "img": "https://images.pexels.com/photos/30889575/pexels-photo-30889575/free-photo-of-elegant-orange-sports-car-on-scenic-road.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "para": "The automotive landscape in 2024 showcases a remarkable blend of innovation, performance, and sustainability. Leading the pack is the Toyota Prius, which has shed its previous image with a sleek redesign and enhanced performance, achieving up to 57 mpg combined and offering optional all-wheel drive. The BMW i5, an electric variant of the 5 Series, impresses with its luxurious interior, smooth ride, and a real-world range of 321 miles, making it a top contender in the EV segment.",
+        "para2": "In the realm of performance sedans, the Cadillac CT5-V Blackwing stands out with its 668-hp supercharged V8 engine, delivering exhilarating acceleration and precise handling. For those seeking a balance between efficiency and practicality, the Kia Sportage Hybrid offers impressive fuel economy of up to 43 mpg combined, along with a spacious interior and advanced safety features.",
+        "para3": "Electric vehicles continue to make significant strides, with the Kia EV9 emerging as a standout family SUV, offering three rows of seating, a range exceeding 300 miles, and a host of upscale features. The Ford F-150 Lightning redefines the pickup segment by combining traditional utility with electric innovation, providing a robust 580 horsepower and a range of up to 345 miles on a full charge. These models exemplify the diverse options available to consumers in 2024, catering to various preferences and needs."
+    },
+    {
+        "id": "4",
+        "name": "kobe Bryant",
+        "time": "20 april, 2025",
+        "title": "Drive Into the Future: Why Electric Cars Are the Next Big Thing",
+        "img": "https://images.pexels.com/photos/2127014/pexels-photo-2127014.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "para": "Driving a powerful machine down an open road brings an unmatched sense of freedom and exhilaration. The roar of the engine, the rush of the wind, and the smooth handling create a perfect symphony of motion and control. Every curve, every straightaway, every shift of gears feels like an extension of yourself, blending man and machine into one. It’s not just about speed; it's about the connection, the journey, and the mastery over the road ahead. In every mile driven, memories are made, destinations are conquered, and passion for the ride only grows stronger with time. Whether it’s a sleek sports car, a rugged SUV, or a classic vintage, the experience remains unforgettable.",
+        "para2": "The open road stretches far beyond the horizon, inviting those who dare to chase the thrill of freedom. Every curve and straightaway holds a story waiting to be discovered, every mile a new adventure. Engines roar to life, tires hum against the asphalt, and the pulse of the journey beats stronger with each passing second. Through sun-soaked highways and rain-drenched streets, drivers carve their path with passion and purpose. Challenges become victories, obstacles mere detours toward greater destinations. In the heart of every driver lies an unstoppable spirit, fueled by wanderlust, determination, and the endless promise of the next great ride. To drive is not merely to move; it is to live fully, fiercely, and without regret.",
+        "para3": "Life’s true journey is written in the moments we dare to step beyond comfort, embracing the unknown with open arms. Each decision becomes a path, each challenge a hidden lesson shaping who we are. Even when the way forward seems unclear, persistence carves a trail where none existed before. Failures transform into stepping stones, and fleeting victories build a bridge toward dreams yet realized. In the quiet spaces between ambition and achievement, true growth takes root, nourished by hope and resilience. Success is not found in a destination but in the bravery to keep moving, to keep believing, even when the road disappears into the mist of uncertainty."
+    },
+    {
+        "id": "5",
+        "name": "Rajat Kohli",
+        "time": "20 april, 2025",
+        "title": "Performance, Passion, Power, and Precision in Every Car Story",
+        "img": "https://images.pexels.com/photos/544542/pexels-photo-544542.jpeg",
+        "para": "Every great car story begins with performance — the heartbeat of any truly inspiring drive. It's not just about speed, but how a vehicle responds under pressure, handles sharp turns, and accelerates with confidence. Performance is what transforms an ordinary ride into a memorable experience. From finely tuned suspension systems to innovative drivetrain technologies, automakers spend years refining every detail to deliver a ride that excites and inspires. It's the foundation that separates machines from masterpieces",
+        "para2": "Passion is what fuels the automotive world beyond metal and mechanics. It’s seen in the gleam of a freshly waxed hood, heard in the growl of a high-performance engine, and felt in the pride of a first road trip. Whether it’s engineers pouring their creativity into design, or drivers chasing sunset highways, passion drives every element of car culture. It’s what turns a vehicle into a personal statement — a story of freedom, adventure, and identity.",
+        "para3": "But none of it would mean much without power and precision — the perfect blend of raw energy and refined control. Power delivers the rush, the adrenaline, the thrilling punch of acceleration. Precision, on the other hand, ensures safety, grace, and reliability. Together, they define the true essence of automotive excellence. Whether it’s a roaring supercar or a finely tuned electric vehicle, it’s this balance that makes every car story worth telling — one driven by performance, shaped by passion, and perfected by power and precision."
+    },
+    {
+        "id": "6",
+        "name": "Adam Williams",
+        "time": "20 april, 2025",
+        "title": "Fueling the Future with Electric Dreams and Automotive Excellence",
+        "img": "https://images.pexels.com/photos/9800029/pexels-photo-9800029.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "para": "The automotive world is undergoing a remarkable transformation as electric vehicles (EVs) take center stage in the drive toward a more sustainable future. Traditional fuel-powered engines are giving way to clean, efficient electric drivetrains that promise zero emissions and lower long-term costs. This shift is not just about reducing our carbon footprint — it represents a reimagining of what cars can be. With breakthroughs in battery technology, charging infrastructure, and energy efficiency, the vision of an electrified road ahead is no longer a dream, but a rapidly approaching reality.",
+        "para2": "Electric dreams are no longer reserved for sci-fi stories or experimental prototypes. From luxury sedans and performance-driven sports cars to practical commuter vehicles, EVs are being engineered to suit every lifestyle and budget. Companies like Tesla, Rivian, and legacy brands such as Ford and Mercedes-Benz are investing heavily in innovation, creating vehicles that are not only sustainable but also exhilarating to drive. The silent power, instant torque, and futuristic design of EVs are captivating drivers around the world, proving that going electric doesn't mean sacrificing performance or excitement.",
+        "para3": "But the journey doesn't stop at electrification alone. Automotive excellence today also means creating vehicles that are smarter, safer, and more connected than ever. Advanced driver-assistance systems (ADAS), AI-powered infotainment, and over-the-air updates are redefining how we interact with our vehicles. As manufacturers embrace these changes, they’re setting new benchmarks in comfort, efficiency, and design. Fueling the future is about more than electricity — it’s about driving forward with purpose, innovation, and a vision for cleaner, smarter mobility for generations to come."
+    },
+]
+
+export default list;
